@@ -1,1 +1,5 @@
+# Welcome to my portfolio. Get to know me better!
 
+
+![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
+I 
