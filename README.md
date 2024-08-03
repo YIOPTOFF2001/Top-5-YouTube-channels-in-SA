@@ -7,7 +7,7 @@ Analyzing and visualizing data to make better and informed business decisions.
 ## About Me
 My name is Yolanda Mussana and I am a data analyst. I recently completed my degree in Computer Sciences at Eduvos, a private institution in South Africa. I hold skills in data analytics, web development, python, c++ and AI. I love exploring the different aspects of Data Science.
 
-# MY PORFOLIO
+# MY PORTFOLIO
 ## PROJECT 1: South Africa's top 5 YouTube channels.
 
 ![something](Images/kaggle_to_powerbi.gif)
