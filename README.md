@@ -1,5 +1,5 @@
 
-# HI! I'M YOLANDA
+# YOLANDA'S PORTFOLIO.
 
 Analyzing and visualizing data to make better and informed business decisions.
 
@@ -7,7 +7,20 @@ Analyzing and visualizing data to make better and informed business decisions.
 ## About Me
 My name is Yolanda Mussana and I am a data analyst. I recently completed my degree in Computer Sciences at Eduvos, a private institution in South Africa. I hold skills in data analytics, web development, python, c++ and AI. I love exploring the different aspects of Data Science.
 
-# MY PORTFOLIO
+## Skills
+1. Data analysis: Data cleaning, transformation, and statistical analysis.
+2. Programming: Proficient in Python, R, and SQL.
+3. Data visualization: Expertise in Power BI, Tableau, and Excel.
+4. Tools and Technologies: Experience with databases, data warehouses, and big data technologies.
+5. Problem-Solving: Strong analytical skills to identify trends and patterns.
+
+   ## Certifications
+. Cisco Data Analysis Essentials.
+. Microsoft Power BI.
+. Cisco Data Science.
+. Excel
+
+
 ## PROJECT 1: South Africa's top 5 YouTube channels.
 
 ![something](Images/kaggle_to_powerbi.gif)
