@@ -15,10 +15,10 @@ My name is Yolanda Mussana and I am a data analyst. I recently completed my degr
 5. Problem-Solving: Strong analytical skills to identify trends and patterns.
 
    ## Certifications
-. Cisco Data Analysis Essentials.
-. Microsoft Power BI.
-. Cisco Data Science.
-. Excel
+- Cisco Data Analysis Essentials.
+- Microsoft Power BI.
+- Cisco Data Science.
+- Excel
 
 
 ## PROJECT 1: South Africa's top 5 YouTube channels.
