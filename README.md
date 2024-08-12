@@ -26,7 +26,7 @@ My name is Yolanda Mussana and I am a data analyst. I recently completed my degr
 ![something](Images/kaggle_to_powerbi.gif)
 
 
-### Objective 
+## Objective 
 
 - What is the key pain point? 
 
@@ -42,7 +42,10 @@ To create a dashboard that provides insights into the top SA YouTubers in 2024 t
 - engagement metrics
 
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
-
+### Steps to follow 
+- Identify the top 5 YouTube channels in South Africa.
+- Gather data on the channel name, number of videos uploaded, likes, number of followers and the engagement matrix.
+  
 # User story 
 
 As the Head of Marketing, I want to use a dashboard that analyses YouTube channel data in South Africa . 
