@@ -188,6 +188,11 @@ And here is a tabular representation of the expected schema for the clean data:
 2. Extract Youtube channel names from the first column
 3. Rename columns using aliases
 
+   
+### Transform the data
+# Testing 
+- What data quality and validation checks are you going to create?
+
 
 
 
