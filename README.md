@@ -233,7 +233,19 @@ FROM
 # Testing 
 - What data quality and validation checks are you going to create?
 
+Here are the data quality tests conducted:
 
+## Row count check
+```sql
+/*
+# Count the total number of records (or rows) are in the SQL view
+*/
 
+SELECT
+    COUNT(*) AS no_of_rows
+FROM
+    view_sa_youtubers_2024;
+
+```
 
 
